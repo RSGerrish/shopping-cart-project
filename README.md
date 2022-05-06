@@ -1,9 +1,8 @@
-# Getting Started with Create React App
+# Shopping Cart Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To practice ReactJS and implement BrowserRoutes to navigate multiple pages
 
-## Available Scripts
+## Thoughts
 
-In the project directory, you can run:
+Super happy with this one. Currently, I have managed to work out the routing as well as creating all functional components and their states with my own research and referring to my past projects only. Definitely a huge improvement from  last time. The cart is working behind the scenes and all that is left is to present the information on the Cart page.
 
-### `npm start`
